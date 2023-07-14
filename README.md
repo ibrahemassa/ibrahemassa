@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Faress</h1>
-<h3 align="center">A Software engineering student in Istinye University, Istanbul</h3>
+<h1 align="center">Hi 👋, I'm Ibrahim Faress.</h1>
+<h3 align="center">A Software engineering student in Istinye University, Istanbul.</h3>
 
 - 💬 Ask me about **C++**
 
