@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact" alt="ibrahemassa" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ibrahemassa?ext=heatmap?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ibrahemassa?ext=heatmap)
