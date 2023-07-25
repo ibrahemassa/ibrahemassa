@@ -2,9 +2,9 @@
 <h3 align="center">A Software engineering student in Istinye University, Istanbul.</h3>
 <div align="center">
 
-- 💬 Ask me about **C++**
+-💬 Ask me about **C++**
 
-- 📫 How to reach me **ibrahem.fares204@gmail.com**
+-📫 How to reach me **ibrahem.fares204@gmail.com**
 
 </div>
 
