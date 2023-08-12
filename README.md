@@ -13,5 +13,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact" alt="ibrahemassa" /></p>
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/ibrahemassa?ext=heatmap" alt="Leetcode Stats">
+    <img src="https://leetcard.jacoblin.cool/ibrahemassa" alt="Leetcode Stats">
 </div>
