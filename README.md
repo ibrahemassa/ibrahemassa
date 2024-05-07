@@ -6,6 +6,8 @@
 
 -📫 How to reach me **ibrahem.fares204@gmail.com**
 
+-🐧 I use **Arch** btw.
+
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
