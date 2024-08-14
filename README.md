@@ -8,6 +8,10 @@
 
 -🐧 I use **Arch** btw.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ibrahemassa/ibrahemassa/main/assets/animation.webp" width="300px" alt="animation"/>
+
+</p>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
