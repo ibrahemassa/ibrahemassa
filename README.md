@@ -8,10 +8,7 @@
 
 -🐧 I use **Arch** btw.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ibrahemassa/ibrahemassa/main/assets/animation.webp" width="150px" alt="animation"/>
 
-</p>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -19,5 +16,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact" alt="ibrahemassa" /></p>
 <div align="center">
+    <p>
+      <img src="https://raw.githubusercontent.com/ibrahemassa/ibrahemassa/main/assets/animation.webp" width="150px" alt="animation"/>
+    </p>
     <img src="https://leetcard.jacoblin.cool/ibrahemassa" alt="Leetcode Stats">
 </div>
