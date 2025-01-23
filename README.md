@@ -16,7 +16,7 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/ibrahemassa/ibrahemassa/main/assets/animation.webp" width="130px" alt="animation"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact&hide=css,scss,hack,jupyter" alt="ibrahemassa" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact&hide=css,scss,hack,jupyter%20notebook,html" alt="ibrahemassa" />
 </p>
     
 <div align="center">
