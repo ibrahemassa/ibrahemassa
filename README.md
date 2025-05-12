@@ -6,7 +6,7 @@
 
 -📫 How to reach me **ibrahem.fares204@gmail.com**
 
--🐧 I use **Arch** btw.
+-🐧 I use **Arch** btw, and **NeoVim** btw.
 
 
 </div>
