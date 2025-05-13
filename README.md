@@ -1,24 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Faress.</h1>
-<h3 align="center">A Software engineering student in Istinye University, Istanbul.</h3>
-<div align="center">
+# 🚀 Welcome to Ibrahim's Code Dungeon
 
--💬 Ask me about **C**, **Python**, **GO**
+> “Coding is just yelling at a computer in a logical way.” — Me, 5 mins ago
 
--📫 How to reach me **ibrahem.fares204@gmail.com**
+---
 
--🐧 I use **Arch** btw, and **NeoVim** btw.
+## Who am I?
+
+<table style="border: none;">
+  <tr>
+    <td>
+
+- 👋 I'm Ibrahim Faress — coder, keyboard masher, and professional terminal whisperer.  
+- 🧠 Running on Arch Linux, Vim, and coffee.  
+- 🪦 Still can’t exit Vim. If you're reading this, pls send help.  
+- 🐸 I write Python like I’m trying to automate my life.  
+- 💥 Once fixed a bug by deleting the whole file. 10/10 would do again.
+- Once I had a problem... I used concurrency... have Now 😎 I problems 2. 
+
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/IGiacQnpHrEAAAAC/kakashi-kakashi-hatake.gif" width="220px" alt="animation"/>
+      <!-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220px" alt="animation"/> -->
+    </td>
+  </tr>
+</table>
+
+---
 
 
-</div>
+## ✨ Vibes-Based Tech Stack (AKA “Tools I Use to Look Smart”) 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a>  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+| Vibe | Tech | Commentary |
+|------|------|------------|
+| 🧠 Arch Reboot Enjoyer | **Arch Linux** | Yes, I use Arch. No, I won’t stop telling you. |
+| ⌨️ Keyboard Samurai | **Vim** | Exiting is an emotional journey. |
+| 🐍 Python Wizard | **Python** | One script away from automating my coffee machine. |
+| ⚔️ C Warrior | **C** | Memory management builds character (and segfaults). |
+| 🧃 Laravel Chef | **Laravel** | Artisan runs my life better than I do. |
+| 🦀 Rust Addict | **Rust** | I write all my code inside an unsafe block. |
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/ibrahemassa/ibrahemassa/main/assets/animation.webp" width="130px" alt="animation"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact&hide=css,scss,hack,jupyter%20notebook,html" alt="ibrahemassa" />
-</p>
-    
-<div align="center">
-    <img src="https://leetcard.jacoblin.cool/ibrahemassa" alt="Leetcode Stats">
-</div>
+---
+
+## 🧠 Vim is a Lifestyle (and a Poison)
+
+- `:q` doesn’t work? Try `:wq`. Still stuck? just buy the 9th laptop this month.
+- I once opened Vim in Vim. I am now Vim.
+---
+
+## 📊 Stats go brrrrrr
+![Leetcode](https://leetcard.jacoblin.cool/ibrahemassa)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact&hide=css,scss,hack,jupyter%20notebook,html)
+---
+
+## 📬 How to Reach Me
+- Email: [ibrahem.fares204@gmail.com](mailto:ibrahem.fares204@gmail.com)
+
+---
