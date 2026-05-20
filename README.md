@@ -49,7 +49,7 @@
 
 ## 📊 Stats go brrrrrr
 ![Leetcode](https://leetcard.jacoblin.cool/ibrahemassa)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact&hide=css,scss,hack,jupyter%20notebook,html)
+![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ibrahemassa&show_icons=true&locale=en&layout=compact&hide=css,scss,hack,jupyter%20notebook,html)
 ---
 
 ## 📬 How to Reach Me
